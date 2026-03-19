@@ -1,0 +1,24 @@
+
+
+Recommendations:
+# Greenhouse Tomato Analysis – Winter Week (Dec 14–19)
+
+## Key Trends
+
+**Temperature (Tair):** Temperatures frequently exceed the 22°C upper ideal limit during afternoon peaks (reaching ~24°C on Dec 19), while nighttime lows around 16.5–17°C fall within the acceptable range.
+
+**Humidity (Rhair):** Humidity consistently runs 80–90%, far exceeding the ideal 60–70% range, with sustained periods hitting the 90% ceiling — creating serious disease risk.
+
+**Drainage EC (EC_drain_PC):** EC trends upward from ~3.3 mS/cm on Dec 14 to frequently hitting 4.0 mS/cm by Dec 18–19, pushing well above the 3.5 mS/cm ideal upper limit and indicating salt accumulation in the root zone.
+
+**Drainage pH (pH_drain_PC):** pH fluctuates broadly between 5.4 and 6.7, with notable dips below 5.5 on Dec 15 (afternoon) and Dec 19 (midday around 5.40–5.41), suggesting acidification episodes.
+
+**Light (Tot_PAR):** Daytime PAR peaks reach 250–290 μmol/m²/s during midday but remain below 200 for much of the morning and late afternoon, indicating limited winter light availability.
+
+**Irrigation (Cum_irr):** Daily irrigation is only 0.6 L, applied as a single event mid-morning, with some days (Dec 16, Dec 18) receiving zero irrigation entirely.
+
+## Recommendations
+
+**1. Increase irrigation volume and frequency to flush rising EC.** The steady EC climb toward 4.0 mS/cm correlates directly with insufficient irrigation — days with zero irrigation (Dec 16, Dec 18) show the sharpest EC increases. Higher EC combined with low pH dips below 5.5 signals salt stress and potential nutrient toxicity (particularly manganese/aluminum). Increase daily irrigation to achieve 20–30% drain fraction, which will leach excess salts and stabilize both EC back below 3.5 mS/cm and pH above 5.5.
+
+**2. Actively reduce humidity through ventilation and dehumidification.** Persistent 85–90% RH combined with high EC creates a compounding problem: high humidity suppresses transpiration, reducing the plant's ability to uptake water and dilute root-zone salts, further driving EC upward. Implement timed venting during morning hours and consider overnight dehumidification to bring RH closer to 70%, which will improve transpiration, moderate EC accumulation, and significantly reduce Botrytis and leaf mold risk.
