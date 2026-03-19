@@ -21,8 +21,11 @@ This project provides tools for generating, exploring, and analyzing artifical g
 - `data_explorer.py` - Reads the CSV, converts timestamps, and creates time series plots for each variable.
 - `date_time_csv_conversion.py` - Converts `%time` column to readable date/time and saves a new CSV.
 - `agro_report.py` — Sends data to the Anthropic API for analysis and saves the response to a text file.
+- 
 - `example_greenhouse_data.csv` - Example NON-GENERATED data file, taken and modified from https://www.kaggle.com/datasets/piantic/autonomous-greenhouse-challengeagc-2nd-2019
 - `generated_greenhouse_data.csv` - Output csv generated from data_generator.py
+- 
+- `greenhouse_report.txt` - Most recent response from agro_report.py
 
 ## Data Types
 
