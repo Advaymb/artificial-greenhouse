@@ -26,6 +26,7 @@ This project provides tools for generating, exploring, and analyzing artifical g
 - `generated_greenhouse_data.csv` - Output csv generated from data_generator.py
 - 
 - `greenhouse_report.txt` - Most recent response from agro_report.py
+- `Remote Sensing Data Audit.pdf` - In-depth document on data types
 
 ## Data Types
 
